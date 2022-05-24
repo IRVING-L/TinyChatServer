@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/add.h
+iostream
+-
+
+../include/sum.h
+iostream
+-
+
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test3/main.cpp
+iostream
+-
+add.h
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test3/add.h
+sum.h
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test3/sum.h
+
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test3/src/add.cpp
+add.h
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test3/src/add.h
+
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test3/src/sum.cpp
+sum.h
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test3/src/sum.h
+

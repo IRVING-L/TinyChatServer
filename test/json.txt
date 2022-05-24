@@ -1,0 +1,23 @@
+// 登录
+{ "msgid":1,"id":15,"password":"666666"}
+{ "msgid":1,"id":22,"password":"123456"}
+{ "msgid":1,"id":21,"password":"123456"}
+
+// 注册
+{"msgid":3, "name":"irving", "password":"123456"}
+// 一对一聊天
+{ "msgid":5,"sourceID":15, "destID":21, "body":"test for onechat"}
+{ "msgid":5,"sourceID":22, "destID":21, "body":"test for onechat"}
+
+// 添加好友
+{"msgid":6, "id":22, "friendid":21}
+
+// 创建群
+{"msgid":7, "id":21, "gname":"grouptest", "gdesc":"this is a test" }
+
+// 加入群
+{"msgid":8, "id":15, "groupid":3 }
+
+// 群聊
+{"msgid":9, "id":22, "groupid":3, "msg":"hello everyone"}
+

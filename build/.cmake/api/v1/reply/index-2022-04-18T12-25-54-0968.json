@@ -1,0 +1,30 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"name" : "Unix Makefiles"
+		},
+		"paths" : 
+		{
+			"cmake" : "/usr/bin/cmake",
+			"cpack" : "/usr/bin/cpack",
+			"ctest" : "/usr/bin/ctest",
+			"root" : "/usr/share/cmake-3.16"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 16,
+			"patch" : 3,
+			"string" : "3.16.3",
+			"suffix" : ""
+		}
+	},
+	"objects" : [],
+	"reply" : 
+	{
+		"client-vscode" : {}
+	}
+}

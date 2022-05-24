@@ -1,0 +1,10 @@
+/home/ubuntu/tiny-chat-server/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/tiny-chat-server/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/tiny-chat-server/build/src/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/tiny-chat-server/build/src/CMakeFiles/edit_cache.dir
+/home/ubuntu/tiny-chat-server/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/tiny-chat-server/build/src/server/CMakeFiles/edit_cache.dir
+/home/ubuntu/tiny-chat-server/build/src/server/CMakeFiles/server.dir
+/home/ubuntu/tiny-chat-server/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/tiny-chat-server/build/src/client/CMakeFiles/edit_cache.dir
+/home/ubuntu/tiny-chat-server/build/src/client/CMakeFiles/client.dir

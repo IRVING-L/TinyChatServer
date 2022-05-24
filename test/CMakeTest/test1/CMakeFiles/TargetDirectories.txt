@@ -1,0 +1,3 @@
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test1/CMakeFiles/rebuild_cache.dir
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test1/CMakeFiles/edit_cache.dir
+/home/irvinglee/myserver/chatServerV1/test/CMakeTest/test1/CMakeFiles/main.dir
